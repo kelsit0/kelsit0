@@ -32,3 +32,14 @@
   </a>
 </div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=spring,java,python,fastapi,postman,docker,github,mysql,mongo,git,r" />
+    <img src="https://skillicons.dev/icons?i=cpp,maven,idea,linux,mongodb,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
