@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on **a School app**
  
- 🌱 I’m currently learning **Docker, Spring Security/cloud, Unit test**
+ 🌱 I’m currently learning **Docker, Spring Security/Cloud, Unit test**
 
 💬 Ask me about **Spring web, C++, Java or Python**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=spring,java,python,fastapi,postman,docker,github,mysql,mongo,git,r" />
+    <img src="https://skillicons.dev/icons?i=spring,java,python,fastapi,postman,docker,github,git" />
     <img src="https://skillicons.dev/icons?i=cpp,maven,idea,linux,mongodb,mysql" /><br>
 </div>
 
