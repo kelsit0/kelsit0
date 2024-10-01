@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kelsit0.kelsit0" />
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1BF700&width=500&height=70&lines=Hi+There!+👋;+I'm+Oscar+Ramos!;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BCA2A7&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" />
     </a>
 </h1>
 
